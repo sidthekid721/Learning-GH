@@ -11,6 +11,7 @@
 		DEED998729651B1400AF3643 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEED998629651B1400AF3643 /* ContentView.swift */; };
 		DEED998929651B1700AF3643 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEED998829651B1700AF3643 /* Assets.xcassets */; };
 		DEED998C29651B1700AF3643 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEED998B29651B1700AF3643 /* Preview Assets.xcassets */; };
+		DEED99932965250900AF3643 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEED99922965250900AF3643 /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DEED998629651B1400AF3643 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DEED998829651B1700AF3643 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DEED998B29651B1700AF3643 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DEED99922965250900AF3643 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				DEED998629651B1400AF3643 /* ContentView.swift */,
 				DEED998829651B1700AF3643 /* Assets.xcassets */,
 				DEED998A29651B1700AF3643 /* Preview Content */,
+				DEED99922965250900AF3643 /* MyModel.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DEED998729651B1400AF3643 /* ContentView.swift in Sources */,
+				DEED99932965250900AF3643 /* MyModel.swift in Sources */,
 				DEED998529651B1400AF3643 /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
